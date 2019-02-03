@@ -64,6 +64,8 @@ Developer:
 > VS Code is a type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 *   [Phoenix](https://github.com/fabiospampinato/phoenix)
 > My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+*   [iTerm2](https://github.com/gnachman/iTerm2)
+> Term2 is a terminal emulator for Mac OS X that does amazing things.
 
 Desktop:
 --------
@@ -86,6 +88,8 @@ Office & Notes:
 > The markdown-based note-taking app that doesn't suck.
 *   [Standard Notes](https://github.com/standardnotes/desktop)
 > A simple and private notes app. Mac, PC, & Linux app.
+*   [Mark Text](https://github.com/marktext/marktext)
+> Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 
 MenuBar:
 --------
@@ -120,6 +124,8 @@ Chat:
 
 *   [Telegram](https://github.com/telegramdesktop/tdesktop)
 > Telegram Desktop messaging app.
+*   [Android Messenger for Mac](https://github.com/jake-101/android-messenger-mac)
+> Mac app wrapper around Google's stand-alone Android Messenger..
 
 RSS:
 ----
