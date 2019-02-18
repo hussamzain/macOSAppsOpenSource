@@ -66,6 +66,8 @@ Developer:
 > My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 *   [iTerm2](https://github.com/gnachman/iTerm2)
 > Term2 is a terminal emulator for Mac OS X that does amazing things.
+*   [Gitter](https://github.com/gitterHQ/gitter)
+> Gitter is a community for software developers. This project is the main monolith web application.
 
 Desktop:
 --------
@@ -125,7 +127,9 @@ Chat:
 *   [Telegram](https://github.com/telegramdesktop/tdesktop)
 > Telegram Desktop messaging app.
 *   [Android Messenger for Mac](https://github.com/jake-101/android-messenger-mac)
-> Mac app wrapper around Google's stand-alone Android Messenger..
+> Mac app wrapper around Google's stand-alone Android Messenger.
+*   [Messenger](https://github.com/rsms/fb-mac-messenger)
+> Mac app wrapping Facebook's Messenger for desktop.
 
 RSS:
 ----
