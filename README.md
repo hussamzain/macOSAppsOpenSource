@@ -102,6 +102,8 @@ MenuBar:
 > KeepingYouAwake is a small menu bar utility for macOS (Version 10.10 and newer) that can prevent your Mac from entering sleep mode for a predefined duration or as long as it is activated.
 *   [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)
 > This a utility that runs in the OS X menubar that allows for quick access to the system-wide color panel.
+*   [Numi](https://github.com/nikolaeu/Numi-extensions)
+> Numi is a handy calculator app for macOS. It allows to describe tasks the natural way and instantly get an accurate answer.
 
 System:
 -------
