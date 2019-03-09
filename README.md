@@ -104,6 +104,8 @@ MenuBar:
 > This a utility that runs in the OS X menubar that allows for quick access to the system-wide color panel.
 *   [Numi](https://github.com/nikolaeu/Numi-extensions)
 > Numi is a handy calculator app for macOS. It allows to describe tasks the natural way and instantly get an accurate answer.
+*   [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)
+> Use the Touch Bar on any Mac.
 
 System:
 -------
