@@ -68,6 +68,8 @@ Developer:
 > Term2 is a terminal emulator for Mac OS X that does amazing things.
 *   [Gitter](https://github.com/gitterHQ/gitter)
 > Gitter is a community for software developers. This project is the main monolith web application.
+*   [Streaker](https://github.com/jamieweavis/streaker)
+> GitHub contribution streak & stat tracking menu bar app.
 
 Desktop:
 --------
