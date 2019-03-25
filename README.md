@@ -70,6 +70,8 @@ Developer:
 > Gitter is a community for software developers. This project is the main monolith web application.
 *   [Streaker](https://github.com/jamieweavis/streaker)
 > GitHub contribution streak & stat tracking menu bar app.
+*   [Finder Go](https://github.com/onmyway133/FinderGo)
+> Open terminal quickly from Finder.
 
 Desktop:
 --------
