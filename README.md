@@ -145,16 +145,18 @@ RSS:
 *   [feedsapp](https://github.com/nfarina/feeds)
 > Feeds lives in your Mac's menu bar and lets you quickly view the content of new posts on your favorite web services without ever opening a browser window.
 *   [ViennaRSS](https://github.com/ViennaRSS/vienna-rss)
-> Vienna is a free and open-source RSS/Atom newsreader for macOS
+> Vienna is a free and open-source RSS/Atom newsreader for macOS.
 
-Torrent:
+Dowload:
 --------
 
 *   [qbittorrent](https://github.com/qbittorrent/qBittorrent)
-> qBittorrent BitTorrent client
+> qBittorrent BitTorrent client.
+*   [Motrix](https://github.com/agalwood/Motrix)
+> A full-featured download manager.
 
 Backup:
 -------
 
 *   [Mega](https://github.com/meganz/webclient)
-> The mega.nz web client
+> The mega.nz web client.
