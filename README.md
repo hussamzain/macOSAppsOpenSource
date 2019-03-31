@@ -56,6 +56,8 @@ Security:
 Developer:
 ----------
 
+*   [Visual Studio Code](https://github.com/Microsoft/vscode)
+> VS Code is a type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 *   [GitHub Desktop](https://github.com/desktop/desktop)
 > GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
 *   [Mark Text](https://github.com/marktext/marktext)
@@ -96,6 +98,8 @@ Office & Notes:
 > A simple and private notes app. Mac, PC, & Linux app.
 *   [Mark Text](https://github.com/marktext/marktext)
 > Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+*   [Boostnote](https://github.com/BoostIO/Boostnote)
+> A markdown editor for developers on Mac, Windows and Linux.
 
 MenuBar:
 --------
@@ -128,6 +132,10 @@ System:
 > The macOS file archiver.
 *   [iCanHazShortcut](https://github.com/deseven/icanhazshortcut)
 > Simple shortcut manager for OS X 10.8 or higher.
+*   [AppTrap](https://github.com/kvijayan/AppTrap)
+> https://github.com/kvijayan/AppTrap.
+*   [Lunar](https://github.com/alin23/Lunar)
+> Intelligent adaptive brightness for your external display.
 
 Chat:
 -----
