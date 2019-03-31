@@ -49,6 +49,8 @@
   > Cross-platform, free and open-source password manager based on NodeJS.
 - [Sloth](https://github.com/sveinbjornt/Sloth)
   > Mac app that shows all open files and sockets in use by all running applications.
+- [AES Crypt](https://www.aescrypt.com)
+  > AES Crypt is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
 
 ## Developer:
 
