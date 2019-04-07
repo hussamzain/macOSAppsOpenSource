@@ -130,6 +130,8 @@
   > https://github.com/kvijayan/AppTrap.
 - [Lunar](https://github.com/alin23/Lunar)
   > Intelligent adaptive brightness for your external display.
+- [Proxyman](https://github.com/ProxymanApp/Proxyman)
+  > A modern and intuitive HTTP Debugging Proxy app.
 
 ## Chat:
 
