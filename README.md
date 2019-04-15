@@ -72,6 +72,8 @@
   > GitHub contribution streak & stat tracking menu bar app.
 - [Finder Go](https://github.com/onmyway133/FinderGo)
   > Open terminal quickly from Finder.
+- [GitUp](https://github.com/git-up/GitUp)
+  > The Git interface you've been missing all your life has finally arrived.
 
 ## Desktop:
 
