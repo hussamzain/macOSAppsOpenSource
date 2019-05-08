@@ -141,8 +141,6 @@
 
 - [Telegram](https://github.com/telegramdesktop/tdesktop)
   > Telegram Desktop messaging app.
-- [Android Messenger for Mac](https://github.com/jake-101/android-messenger-mac)
-  > Mac app wrapper around Google's stand-alone Android Messenger.
 - [Messenger](https://github.com/rsms/fb-mac-messenger)
   > Mac app wrapping Facebook's Messenger for desktop.
 
