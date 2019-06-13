@@ -74,6 +74,8 @@
   > Open terminal quickly from Finder.
 - [GitUp](https://github.com/git-up/GitUp)
   > The Git interface you've been missing all your life has finally arrived.
+- [RunJS](https://github.com/lukehaas/RunJS)
+  > A JavaScript playground that auto-evaluates as you type.
 
 ## Desktop:
 
