@@ -76,6 +76,8 @@
   > The Git interface you've been missing all your life has finally arrived.
 - [RunJS](https://github.com/lukehaas/RunJS)
   > A JavaScript playground that auto-evaluates as you type.
+- [Hyper](https://github.com/zeit/hyper)
+  > A terminal built on web technologies.
 
 ## Desktop:
 
