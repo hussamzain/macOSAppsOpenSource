@@ -115,6 +115,8 @@
   > Numi is a handy calculator app for macOS. It allows to describe tasks the natural way and instantly get an accurate answer.
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)
   > Use the Touch Bar on any Mac.
+- [Maccy](https://github.com/p0deje/Maccy)
+  > Lightweight clipboard manager for macOS.
 
 ## System:
 
