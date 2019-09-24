@@ -142,6 +142,8 @@
   > A modern and intuitive HTTP Debugging Proxy app.
 - [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel)
   > GreenTunnel, Deep Packet Inspection blocker that defeats censorship and DPI against large nation-state regimes!
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
+  > An advanced battery gauge for macOS, that displays the remaining battery time and more.
 
 ## Chat:
 
