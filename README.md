@@ -36,6 +36,8 @@
   > Video editor.
 - [ScreenTray](https://github.com/DSnopov/screentray-distribution)
   > A macOS app for capturing, annotating and sharing screenshots.
+- [OBS Studio](https://github.com/obsproject/obs-studio)
+  > Free and open source software for live streaming and screen recording.
 
 ## Security:
 
