@@ -105,7 +105,7 @@
 - [Boostnote](https://github.com/BoostIO/Boostnote)
   > A markdown editor for developers on Mac, Windows and Linux.
 - [Brave Browser](https://github.com/brave/brave-browser)
-> Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
+  > Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
 
 ## MenuBar:
 
