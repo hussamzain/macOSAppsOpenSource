@@ -62,14 +62,10 @@
   > GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
 - [Mark Text](https://github.com/marktext/marktext)
   > Next generation markdown editor.
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-  > VS Code is a type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 - [Phoenix](https://github.com/fabiospampinato/phoenix)
   > My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [iTerm2](https://github.com/gnachman/iTerm2)
   > Term2 is a terminal emulator for Mac OS X that does amazing things.
-- [Gitter](https://github.com/gitterHQ/gitter)
-  > Gitter is a community for software developers. This project is the main monolith web application.
 - [Streaker](https://github.com/jamieweavis/streaker)
   > GitHub contribution streak & stat tracking menu bar app.
 - [Finder Go](https://github.com/onmyway133/FinderGo)
@@ -139,7 +135,7 @@
 - [iCanHazShortcut](https://github.com/deseven/icanhazshortcut)
   > Simple shortcut manager for OS X 10.8 or higher.
 - [AppTrap](https://github.com/kvijayan/AppTrap)
-  > https://github.com/kvijayan/AppTrap.
+  > Moving an application to the trash is simple and easy. Shouldn't true uninstallation on the Mac be the same way?.
 - [Lunar](https://github.com/alin23/Lunar)
   > Intelligent adaptive brightness for your external display.
 - [Proxyman](https://github.com/ProxymanApp/Proxyman)
@@ -153,13 +149,9 @@
 
 - [Telegram](https://github.com/telegramdesktop/tdesktop)
   > Telegram Desktop messaging app.
-- [Messenger](https://github.com/rsms/fb-mac-messenger)
-  > Mac app wrapping Facebook's Messenger for desktop.
 
 ## RSS:
 
-- [feedsapp](https://github.com/nfarina/feeds)
-  > Feeds lives in your Mac's menu bar and lets you quickly view the content of new posts on your favorite web services without ever opening a browser window.
 - [ViennaRSS](https://github.com/ViennaRSS/vienna-rss)
   > Vienna is a free and open-source RSS/Atom newsreader for macOS.
 
