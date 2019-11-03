@@ -121,6 +121,8 @@
   > Use the Touch Bar on any Mac.
 - [Maccy](https://github.com/p0deje/Maccy)
   > Lightweight clipboard manager for macOS.
+- [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
+  > Islamic Prayer Times.
 
 ## System:
 
@@ -148,6 +150,8 @@
   > GreenTunnel, Deep Packet Inspection blocker that defeats censorship and DPI against large nation-state regimes!
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
   > An advanced battery gauge for macOS, that displays the remaining battery time and more.
+- [MacUpdater](https://www.corecode.io/macupdater/)
+  > keep all your apps up-to-date effortlessly.
 
 ## Chat:
 
