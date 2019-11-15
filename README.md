@@ -117,6 +117,8 @@
   > Use the Touch Bar on any Mac.
 - [Maccy](https://github.com/p0deje/Maccy)
   > Lightweight clipboard manager for macOS.
+- [uPic](https://github.com/gee1k/uPic)
+  > uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
 ## System:
 
