@@ -150,6 +150,8 @@
   > An advanced battery gauge for macOS, that displays the remaining battery time and more.
 - [NitroShare](https://github.com/nitroshare/nitroshare-desktop)
   > Network file transfer application for Windows, OS X, & Linux.
+- [Etcher](https://github.com/balena-io/etcher)
+  > Flash OS images to SD cards & USB drives, safely and easily.
 
 ## Chat:
 
