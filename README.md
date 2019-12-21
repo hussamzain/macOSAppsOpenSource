@@ -128,6 +128,8 @@
 
 - [Dozer](https://github.com/Mortennn/Dozer)
   > Dozer lets you hide menu bar items to give your Mac a cleaner look.
+- [Hidden Bar](https://github.com/dwarvesf/hidden)
+  > A ultra-light MacOS utility that helps hide menu bar icons.
 - [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me)
   > A small macOS app that acts as a system cleaner.
 - [FiScript](https://github.com/Mortennn/FiScript)
