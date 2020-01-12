@@ -156,6 +156,8 @@
   > Network file transfer application for Windows, OS X, & Linux.
 - [Etcher](https://github.com/balena-io/etcher)
   > Flash OS images to SD cards & USB drives, safely and easily.
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)
+  > Simple menu bar weather app for macOS.
 
 ## Chat:
 
