@@ -38,6 +38,8 @@
   > A macOS app for capturing, annotating and sharing screenshots.
 - [OBS Studio](https://github.com/obsproject/obs-studio)
   > Free and open source software for live streaming and screen recording.
+- [Pennywise](https://github.com/kamranahmedse/pennywise)
+  > Cross-platform application to open any website or media in a floating window.
 
 ## Security:
 
