@@ -40,6 +40,8 @@
   > Free and open source software for live streaming and screen recording.
 - [Pennywise](https://github.com/kamranahmedse/pennywise)
   > Cross-platform application to open any website or media in a floating window.
+- [OpenShot](https://github.com/OpenShot/openshot-qt)
+  > OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 
 ## Security:
 
