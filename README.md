@@ -164,6 +164,8 @@
   > Flash OS images to SD cards & USB drives, safely and easily.
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)
   > Simple menu bar weather app for macOS.
+- [Lulu](https://github.com/objective-see/LuLu)
+  > LuLu is the free macOS firewall.
 
 ## Chat:
 
