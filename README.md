@@ -127,8 +127,8 @@
   > Lightweight clipboard manager for macOS.
 - [uPic](https://github.com/gee1k/uPic)
   > uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
-  - [Spectacle](https://github.com/eczarny/spectacle)
-  > Spectacle allows you to organize your windows without using a mouse..
+- [Spectacle](https://github.com/eczarny/spectacle)
+  > Spectacle allows you to organize your windows without using a mouse.
 
 ## System:
 
