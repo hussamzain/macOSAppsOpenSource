@@ -166,6 +166,8 @@
   > Simple menu bar weather app for macOS.
 - [Lulu](https://github.com/objective-see/LuLu)
   > LuLu is the free macOS firewall.
+- [Meteorologist](https://sourceforge.net/projects/heat-meteo)
+  > Meteorologist is a free weather program for OS X. It allows users total control over their weather viewing, including simultaneous interlaced weather reports from multiple weather servers, multiple weather locations, weather alerts and much more.
 
 ## Chat:
 
