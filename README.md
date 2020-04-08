@@ -170,6 +170,8 @@
   > Meteorologist is a free weather program for OS X. It allows users total control over their weather viewing, including simultaneous interlaced weather reports from multiple weather servers, multiple weather locations, weather alerts and much more.
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)
   > A macOS menu bar app that gives you more control over Grayscale Mode.
+- [Cloaker](https://github.com/spieglt/Cloaker)
+  > Simple password-based file encryption.
 
 ## Chat:
 
