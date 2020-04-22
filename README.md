@@ -62,6 +62,8 @@
 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
   > VS Code is a type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
+- [hub](https://hub.github.com/)
+  > hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal.
 - [GitHub Desktop](https://github.com/desktop/desktop)
   > GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
 - [Mark Text](https://github.com/marktext/marktext)
