@@ -114,6 +114,8 @@
   > Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary)
   > Simple and secure journal app.
+- [FreeMind](http://freemind.sourceforge.net)
+  > FreeMind is a premier free mind-mapping software written in Java.
 
 ## MenuBar:
 
