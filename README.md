@@ -178,6 +178,8 @@
   > A macOS menu bar app that gives you more control over Grayscale Mode.
 - [Cloaker](https://github.com/spieglt/Cloaker)
   > Simple password-based file encryption.
+- [Stats](https://github.com/exelban/stats)
+  > Simple macOS system monitor in your menu bar.
 
 ## Chat:
 
