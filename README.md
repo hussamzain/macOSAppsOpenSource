@@ -135,6 +135,8 @@
   > uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [Spectacle](https://github.com/eczarny/spectacle)
   > Spectacle allows you to organize your windows without using a mouse.
+- [MeetingBar](https://github.com/leits/MeetingBar)
+  > MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 
 ## System:
 
@@ -180,6 +182,8 @@
   > Simple password-based file encryption.
 - [Stats](https://github.com/exelban/stats)
   > Simple macOS system monitor in your menu bar.
+- [Nocturnal](https://github.com/joshjon/nocturnal)
+  > Have more control over your screen at night.
 
 ## Chat:
 
