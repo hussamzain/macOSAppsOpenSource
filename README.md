@@ -42,8 +42,10 @@
   > Cross-platform application to open any website or media in a floating window.
 - [OpenShot](https://github.com/OpenShot/openshot-qt)
   > OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-- [Streamlabs OBS](https://github.com/stream-labs/streamlabs-obs/)
+- [Streamlabs OBS](https://github.com/stream-labs/streamlabs-obs)
   > Simple, powerful, and efficient live streaming software built on Electron and OBS.
+- [LosslessCut](https://github.com/mifi/lossless-cut)
+  > The swiss army knife of lossless video/audio editing.
 
 ## Security:
 
