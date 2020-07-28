@@ -210,3 +210,8 @@
 
 - [Mega](https://github.com/meganz/webclient)
   > The mega.nz web client.
+
+## VPN:
+
+- [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app)
+  > In a society increasingly determined to erode that right, a fast, trustworthy and easy-to-use VPN is a good first step toward reclaiming it.
