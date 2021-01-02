@@ -139,6 +139,8 @@
   > Spectacle allows you to organize your windows without using a mouse.
 - [MeetingBar](https://github.com/leits/MeetingBar)
   > MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+  > Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
 ## System:
 
