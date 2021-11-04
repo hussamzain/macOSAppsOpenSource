@@ -24,8 +24,6 @@
   > a powerful, open-source screenshot utility for macOS.
 - [Media Converter](https://sourceforge.net/projects/media-converter)
   > Media Converter is a plugin based video and audio converter. It uses ffmpeg as it's engine, which allows it to convert to a lot of formats.
-- [odio](https://github.com/odioapp/odio)
-  > odio is a free radio streaming software with more than 20,000 radio stations from around the world for Windows, MacOs and Linux.
 - [VLC](https://github.com/videolan/vlc)
   > VLC is a popular libre and open source media player and multimedia engine.
 - [ballast](https://github.com/jamsinclair/ballast)
@@ -114,8 +112,6 @@
   > A markdown editor for developers on Mac, Windows and Linux.
 - [Brave Browser](https://github.com/brave/brave-browser)
   > Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
-- [Mini Diary](https://github.com/samuelmeuli/mini-diary)
-  > Simple and secure journal app.
 - [FreeMind](http://freemind.sourceforge.net)
   > FreeMind is a premier free mind-mapping software written in Java.
 
