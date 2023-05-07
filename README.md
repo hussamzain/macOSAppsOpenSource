@@ -2,7 +2,7 @@
 
 ## Media:
 
-- [\[Un\]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)
+- [MuteUnmuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)
   > macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 - [Audacity](https://github.com/audacity/audacity)
   > Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
@@ -10,7 +10,7 @@
   > Aural Player is an audio player application for the macOS platform, that was inspired by the classic Winamp player for Windows.
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
   > Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-- [duetdisplay](https://github.com/FrederickGeek8/Harmony)
+- [Harmony](https://github.com/FrederickGeek8/Harmony)
   > Ex-Apple Engineers turn your iPad into an extra display.
 - [freac](https://github.com/enzo1982/freac)
   > fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
@@ -47,7 +47,7 @@
 
 ## Security:
 
-- [Bit Warden](https://github.com/bitwarden/desktop)
+- [Bit Warden](https://github.com/bitwarden/clients)
   > Open source password management solutions for individuals, teams, and business organizations.
 - [Tor Browser](https://github.com/torproject/tor)
   > Tor protects your privacy on the internet by hiding the connection between your Internet address and the services you use.
@@ -91,8 +91,6 @@
   > Tiling window manager for macOS along the lines of xmonad.
 - [LICEcap](https://github.com/justinfrankel/licecap)
   > LICEcap simple animated screen capture tool for Windows and OS X.
-- [Spectacle](https://github.com/eczarny/spectacle)
-  > Spectacle allows you to organize your windows without using a mouse.
 - [Station](https://github.com/getstation/)
   > The one app to rule them all.
 
@@ -104,7 +102,7 @@
   > A desktop application for creating invoices with beautiful and customizable templates.
 - [Notable](https://github.com/fabiospampinato/notable)
   > The markdown-based note-taking app that doesn't suck.
-- [Standard Notes](https://github.com/standardnotes/desktop)
+- [Standard Notes](https://github.com/standardnotes/app)
   > A simple and private notes app. Mac, PC, & Linux app.
 - [Mark Text](https://github.com/marktext/marktext)
   > Next generation markdown editor, running on platforms of MacOS Windows and Linux.
@@ -131,8 +129,6 @@
   > Lightweight clipboard manager for macOS.
 - [uPic](https://github.com/gee1k/uPic)
   > uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
-- [Spectacle](https://github.com/eczarny/spectacle)
-  > Spectacle allows you to organize your windows without using a mouse.
 - [MeetingBar](https://github.com/leits/MeetingBar)
   > MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)
@@ -144,8 +140,6 @@
   > Dozer lets you hide menu bar items to give your Mac a cleaner look.
 - [Hidden Bar](https://github.com/dwarvesf/hidden)
   > A ultra-light MacOS utility that helps hide menu bar icons.
-- [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me)
-  > A small macOS app that acts as a system cleaner.
 - [FiScript](https://github.com/Mortennn/FiScript)
   > FiScript is an open source application for MacOS, released under the MIT License. FiScript lets you execute custom scripts on your files/folders from the context menu in Finder.
 - [Loading](https://github.com/BonzaiThePenguin/Loading)
